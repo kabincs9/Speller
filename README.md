@@ -29,7 +29,7 @@ Designed to handle large texts quickly, this project demonstrates professional-l
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/speller.git
+git clone https://github.com/kabincs9/speller.git
 cd speller
 
 # Compile
